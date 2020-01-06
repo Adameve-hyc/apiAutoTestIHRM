@@ -1,0 +1,3 @@
+2020-01-05 11:37:21,677 DEBUG [urllib3.connectionpool] [connectionpool.py(_new_conn:225)] - Starting new HTTP connection (1): 182.92.81.159:80
+2020-01-05 11:37:21,771 DEBUG [urllib3.connectionpool] [connectionpool.py(_make_request:437)] - http://182.92.81.159:80 "POST /api/sys/login HTTP/1.1" 200 None
+2020-01-05 11:37:21,771 INFO [root] [test_login.py(test_login:26)] - {'success': True, 'data': 'dee19ddf-1458-4eac-ba16-23b9f66e59b6', 'message': '²Ù×÷³É¹¦£¡', 'code': 10000}

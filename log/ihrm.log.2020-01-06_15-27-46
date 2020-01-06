@@ -1,0 +1,9 @@
+2020-01-06 15:27:46,363 INFO [root] [test_login.py(test_login:34)] - 登陆成功
+2020-01-06 15:27:46,444 INFO [root] [test_login.py(test_login:34)] - 账号不存在
+2020-01-06 15:27:46,516 INFO [root] [test_login.py(test_login:34)] - 密码错误
+2020-01-06 15:27:46,592 INFO [root] [test_login.py(test_login:34)] - 账号存在特殊字符
+2020-01-06 15:27:46,665 INFO [root] [test_login.py(test_login:34)] - 账号为空
+2020-01-06 15:27:46,734 INFO [root] [test_login.py(test_login:34)] - 密码为空
+2020-01-06 15:27:46,807 INFO [root] [test_login.py(test_login:34)] - 账号有中文
+2020-01-06 15:27:46,876 INFO [root] [test_login.py(test_login:34)] - 账号有有空格
+2020-01-06 15:27:46,953 INFO [root] [login_get_token.py(test_add_token:32)] - 获取令牌:Bearer b8f92f01-5752-4bb1-b84b-586c4aa9fc8b

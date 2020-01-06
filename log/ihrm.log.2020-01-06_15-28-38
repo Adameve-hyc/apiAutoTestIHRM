@@ -1,0 +1,12 @@
+2020-01-06 15:28:38,009 INFO [root] [test_login.py(test_login:34)] - 账号不存在
+2020-01-06 15:28:38,087 INFO [root] [test_login.py(test_login:34)] - 密码错误
+2020-01-06 15:28:38,160 INFO [root] [test_login.py(test_login:34)] - 账号存在特殊字符
+2020-01-06 15:28:38,232 INFO [root] [test_login.py(test_login:34)] - 账号为空
+2020-01-06 15:28:38,301 INFO [root] [test_login.py(test_login:34)] - 密码为空
+2020-01-06 15:28:38,370 INFO [root] [test_login.py(test_login:34)] - 账号有中文
+2020-01-06 15:28:38,441 INFO [root] [test_login.py(test_login:34)] - 账号有有空格
+2020-01-06 15:28:38,518 INFO [root] [login_get_token.py(test_add_token:32)] - 获取令牌:Bearer 8c7bd3c4-c8ba-438a-9029-ea9ab96969f9
+2020-01-06 15:28:38,593 INFO [root] [test_emp.py(test_01add_emp:39)] - 获取的员工id1214086356565053440
+2020-01-06 15:28:38,643 INFO [root] [test_emp.py(test_01add_emp:40)] - 添加员工
+2020-01-06 15:28:38,720 INFO [root] [test_emp.py(test_02search_emp:48)] - 查询员工
+2020-01-06 15:28:38,794 INFO [root] [test_emp.py(test_03update_emp:57)] - 修改员工

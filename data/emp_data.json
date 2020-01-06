@@ -1,0 +1,33 @@
+{
+  "add_emp": {
+    "desc": "添加员工",
+    "username": "48556954",
+    "mobile": "15876698549",
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "search_emp": {
+    "desc": "查询员工",
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "update_emp": {
+    "desc": "修改员工",
+    "username": "绍赖赖",
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "delete_emp": {
+    "desc": "删除员工",
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  }
+}
