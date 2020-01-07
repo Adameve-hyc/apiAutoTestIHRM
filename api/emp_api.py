@@ -47,3 +47,7 @@ class EmpApi(object):
         '''删除员工'''
         emp_id_url = emp_id + '/' + str(app.EMP_ID)
         return requests.delete(emp_id_url,headers=self.headers)
+    def find_emp_list(self,page,size):
+        '''查询员工列表'''
+        emp_list_emp = emp_id + '?page={}&size={}'.format(page,size)
+        return requests.get(emp_list_emp,headers=self.headers)
