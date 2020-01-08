@@ -29,6 +29,6 @@ class TestGetTkoen(unittest.TestCase):
         # 添加token到HEADER_DIR
         token = 'Bearer ' + json_data.get('data')
         HEADERS['Authorization'] = token
-        logging.info('获取令牌:{}'.format(token))
+        # logging.info('获取令牌:{}'.format(token))
         assert_common(self, response, 200, True, 10000, '操作成功') # 断言
 

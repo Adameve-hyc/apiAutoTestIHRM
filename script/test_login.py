@@ -31,4 +31,4 @@ class TestLogin(unittest.TestCase):
         response = self.login.post_login(mobile, password)
         json_data = response.json()
         assert_common(self, response, status_code, success, code, message)
-        logging.info(desc)
+        # logging.info(desc)
