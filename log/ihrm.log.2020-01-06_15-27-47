@@ -1,5 +1,0 @@
-2020-01-06 15:27:47,036 INFO [root] [test_emp.py(test_01add_emp:39)] - 获取的员工id1214086140306739200
-2020-01-06 15:27:47,043 INFO [root] [test_emp.py(test_01add_emp:40)] - 添加员工
-2020-01-06 15:27:47,116 INFO [root] [test_emp.py(test_02search_emp:48)] - 查询员工
-2020-01-06 15:27:47,194 INFO [root] [test_emp.py(test_03update_emp:57)] - 修改员工
-2020-01-06 15:27:47,430 INFO [root] [test_emp.py(test_04delete_emp:80)] - 删除员工

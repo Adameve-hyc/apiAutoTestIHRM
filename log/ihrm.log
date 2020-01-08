@@ -1,1 +1,1 @@
-2020-01-06 15:28:39,042 INFO [root] [test_emp.py(test_04delete_emp:78)] - 删除员工
+2020-01-07 21:28:26,343 INFO [root] [test_emp.py(test_06emp_list:107)] - 查询到的用户名称是：aj123

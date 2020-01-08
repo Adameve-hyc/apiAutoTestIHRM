@@ -29,5 +29,54 @@
     "success": true,
     "code": 10000,
     "message": "操作成功"
+  },
+  "emp_list": [
+    {
+      "desc": "第一页默认返回10条数据",
+      "type": 1,
+      "size": 10,
+      "status_code": 200,
+      "success": true,
+      "code": 10000,
+      "message": "操作成功"
+    },
+    {
+      "desc": "第二页默认返回10条数据",
+      "type": 2,
+      "size": 10,
+      "status_code": 200,
+      "success": true,
+      "code": 10000,
+      "message": "操作成功"
+    },
+    {
+      "desc": "size为11时，返回11条数据",
+      "type": 1,
+      "size": 11,
+      "status_code": 200,
+      "success": true,
+      "code": 10000,
+      "message": "操作成功"
+    },
+    {
+      "desc": "size为0时，抛出code：99999",
+      "type": 1,
+      "size": 0,
+      "status_code": 200,
+      "success": false,
+      "code": 99999,
+      "message": "抱歉，系统繁忙，请稍后重试"
+    }
+  ],
+  "mobile_find_username": {
+    "desc": "根据手机号查用户名",
+    "type": 1,
+    "size": 10,
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "mobile": "13800000002",
+    "expect": "aj123"
   }
 }
